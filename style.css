@@ -1,0 +1,34 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: pink;
+    font-family: 'League Gothic', sans-serif;
+}
+.header_div{
+    background: navy;
+    color: pink;
+}
+.header_div p{
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    width: 130px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: red;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    background-color: gray;
+    line-height: 3;
+    font-size: 18px;
+    text-align: center;
+}
